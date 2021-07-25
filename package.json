@@ -1,0 +1,19 @@
+{
+  "name": "server-html-document",
+  "version": "1.0.0",
+  "description": "This module provides an easy way to create and manipulate the DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iktumi/server-html-document.git"
+  },
+  "author": "Iktumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iktumi/server-html-document/issues"
+  },
+  "homepage": "https://github.com/iktumi/server-html-document#readme"
+}
