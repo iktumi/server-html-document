@@ -79,7 +79,7 @@ function createElement(tagName, id) {
     };
 }
 
-export default {
+module.exports = {
     htmlDocument,
     createElement,
 };
