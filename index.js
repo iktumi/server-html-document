@@ -1,1 +1,1 @@
-module.exports = require('./src/htmlDocument');
+export { default } from "./src/htmlDocument";
